@@ -1,0 +1,2 @@
+# RNN
+Redes neuronales recurrentes.
